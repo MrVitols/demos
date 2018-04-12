@@ -1,0 +1,8 @@
+li {
+    margin: 10px 0px 10px 20px;
+}
+ul {
+    margin-top: 50px;
+    list-style-type: square;
+    list-style-image:url(https://prod-edxapp.edx-cdn.org/assets/courseware/v1/073e0b55b08d259174c48c569c6696d9/asset-v1:W3Cx+HTML5.0x+3T2017+type@asset+block/my_triangle.png);
+}

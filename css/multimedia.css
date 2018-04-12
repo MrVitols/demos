@@ -1,0 +1,17 @@
+body, html {
+    font-family: fantasy;
+    background-color:  rgb(73, 88, 107);
+}
+.activities {
+    margin: 10px 0px 10px 5px;
+    background-color: rgb(241, 241, 99);
+    align-self: center;
+}
+h1 {
+    text-align: center;
+}
+.media {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

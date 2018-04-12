@@ -1,0 +1,23 @@
+html, body {
+    font-family: sans-serif;
+}
+.male {
+    color: red;
+}
+.female {
+    color: blue;
+}
+.bold {
+    font-weight: bold;
+}
+.italic {
+    font-style: italic;
+}
+#middlemarch li {
+    list-style-type: upper-roman;
+    margin: 5px;
+    text-align: right;
+}
+#taletwocities {
+    list-style-type: upper-alpha;
+}

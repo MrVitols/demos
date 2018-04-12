@@ -1,0 +1,32 @@
+table { margin: 10px;
+        border-collapse: collapse;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-align: center;
+    }
+table.eg1, .eg1 th, .eg1 td {
+    border: 1px solid gray;
+    padding: 10px;
+}
+table.eg2, .eg2 th, .eg2 td {
+    border: 3px solid black;
+    padding: 10px;
+    text-align: center;
+}
+table.eg2 {width: 600px;}
+.eg2 th {background-color: rgb(109, 108, 108);}
+.eg2 tr {background-color: lightgray;}
+table.eg3, .eg3 th, .eg3 td {
+    border: 2px solid white;
+    padding: 10px;
+}
+table.eg3 {
+    width: 700px;
+    height: 250px;
+}
+.eg3 th {
+    background-color: rgb(43, 139, 230);
+    border-bottom: 4px solid white;
+}
+.eg3 tr {background-color: rgb(203, 206, 209);}
+.eg3 tr:nth-child(even) {background-color: rgb(228, 231, 235);}
+.eg3 tr:hover, .eg2 tr:hover,.eg1 tbody tr:hover {background-color: yellow;}
